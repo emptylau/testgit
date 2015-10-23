@@ -8,4 +8,3 @@ nhigklmk
 888888888
 11111
 aaaaaaaaaaaubuntu linux
-temp
